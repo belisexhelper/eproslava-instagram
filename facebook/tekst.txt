@@ -1,0 +1,24 @@
+FACEBOOK STRANICA eProslava – šta gde upisati
+
+1) Profilna slika: profilna.png (1080×1080). Facebook je sam iseca u krug.
+2) Naslovna slika: naslovna.png (1640×624).
+
+3) Uvod / Intro (do 101 znak):
+Digitalne pozivnice za venčanja, krštenja i rođendane, sa potvrdom dolaska i planerom proslave.
+
+4) Kategorija: Usluge planiranja događaja (Event Planner); druga: Internet stranica (Website).
+
+5) Sajt: https://eproslava.rs
+   Instagram: povezati nalog @eproslava (Podešavanja → Povezani nalozi).
+   Mejl: (vaš kontakt mejl)
+   Lokacija: Srbija (bez adrese, ako nemate prodajni prostor).
+
+6) Dugme na stranici: „Saznajte više“ (Learn more) → https://eproslava.rs
+   ili „Pošaljite poruku“ ako hoćete upite preko Messengera.
+
+7) Opis (detaljnije, „Detalji“):
+eProslava pravi digitalne pozivnice koje se otvaraju kao prava koverta sa pečatom. Gosti potvrđuju dolazak jednim klikom, a vi u panelu vidite ko dolazi, sa koliko osoba i šta ne jede. Tu su i lista gostiju, raspored sedenja, doček na ulazu sa QR kodom i slike koje gosti šalju sa proslave.
+Za venčanja, veridbe, krštenja, prve i 18. rođendane. Plaća se jednom, za celu proslavu.
+
+8) Korisničko ime stranice (@): eproslava (Podešavanja → Korisničko ime), da adresa bude facebook.com/eproslava.
+   Kad ga postavite, novu adresu upišite u Admin → Sajt → SEO (Google) → Facebook.
